@@ -1,4 +1,4 @@
-
+updated PrivateVPN Module | auto-connect + no-logs-policy is the best PrivateVPN module, featuring auto-connect and no-logs-policy. Secure, fast, and optimized for privacy.
 
 
 
